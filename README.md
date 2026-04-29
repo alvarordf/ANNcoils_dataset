@@ -91,10 +91,10 @@ More information about how to properly train the ANN and adjust their hyperparam
 ## Credits
 If you use this dataset, please consider the proper citation of the article:
 
-[1] A. Rodriguez-Fuentes, M. J. Carrizosa and R. Ramos, "Neural Network-Based Design of Wireless Power Transfer Systems for Implantable Medical Devices," in IEEE Transactions on Power Electronics, doi: 10.1109/TPEL.2025.3614366.
+[1] A. Rodriguez-Fuentes, M. J. Carrizosa and R. Ramos, "Neural Network-Based Design of Wireless Power Transfer Systems for Implantable Medical Devices," in IEEE Transactions on Power Electronics, vol. 41, no. 2, pp. 3011-3024, Feb. 2026, doi: 10.1109/TPEL.2025.3614366
 
 ## Author
 - Name: Álvaro Rodríguez Fuentes
-- Affiliation: Centro de Electrónica Industrial, Universidad Politécnica de Madrid
+- Affiliation: Centro de Electrónica Industrial y Sistemas Multimodales, Universidad Politécnica de Madrid
 - Email: alvaro.rofuentes@upm.es
 
